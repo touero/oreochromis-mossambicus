@@ -1,0 +1,3 @@
+pandas==1.2.4
+pyecharts==1.9.1
+pywebio==1.5.2
